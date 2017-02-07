@@ -1,0 +1,46 @@
+body {
+	margin-top: 95px;
+	background-color: #475841;
+	font-size: 32px;
+	font-family: Geneva;
+	color: white;
+
+}
+
+a:link
+{
+	color: #C3E991;
+
+}
+
+a:hover
+{
+	color: #C3E991;
+
+}
+
+a:active
+{
+	color: #C3E991;
+
+}
+
+a:visited
+{
+	color: #AAA95A;
+
+}
+
+h1
+{
+	text-align: center;
+	color: white;
+
+}
+
+h3
+{
+	margin-left: 25px;
+	margin-right: 75px;
+
+}
