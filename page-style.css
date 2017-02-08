@@ -17,7 +17,36 @@ h1
 
 }
 
+h2
+{
+	text-align: center;
+	color: #ECF8F8;
+	font-family: georgia;
+	font-weight: 100;
+
+}
+
+h3
+{
+	text-align: center;
+	margin-left: 100px;
+	margin-right: 100px;
+	font-family: georgia;
+	font-weight: 600;
+	color: #ECF8F8;
+}
+
 h4
+{
+	text-align: left;
+	margin-left: 100px;
+	margin-right: 100px;
+	font-family: georgia;
+	font-weight: 100;
+	color: #ECF8F8;
+}
+
+h5
 {
 	text-align: center;
 	margin-left: 100px;
