@@ -1,8 +1,8 @@
 body {
 	margin-top: 95px;
-	background-color: #848586;
+	background-color: #7D869C;
 	font-size: 20px;
-	font-family: Arial;
+	font-family: georgia;
 	font-weight: 100;
 	color: #B8D8D8;
 
@@ -11,8 +11,8 @@ body {
 h1
 {
 	text-align: center;
-	color: white;
-	font-family: Arial;
+	color: #ECF8F8;
+	font-family: georgia;
 	font-weight: 100;
 
 }
@@ -22,14 +22,30 @@ p
 	text-align: center;
 	margin-left: 25px;
 	margin-right: 25px;
-	font-family: Arial;
+	font-family: georgia;
 	font-weight: 100;
+
+}
+
+img
+{
+	display: block;
+	margin: auto;
+	padding: 10px;
+	border: 1px solid #ECF8F8;
+
+}
+
+hr
+{
+	color: #ECF8F8;
+	padding: 2px;
 
 }
 
 a:link, a:visited
 {
-	color: white;
+	color: #ECF8F8;
 	text-decoration: none;
 	padding: 15px 15px;
     text-align: center; 
@@ -37,5 +53,5 @@ a:link, a:visited
 
 a:hover, a:active
 {
-	background-color: #594F3B;
+	background-color: #586994;
 }

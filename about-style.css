@@ -43,6 +43,27 @@ hr
 
 }
 
+div
+{
+	text-align: center;
+	margin-left: 10px;
+	margin-right: 10px;
+	font-family: georgia;
+	font-weight: 100;
+	color: #ECF8F8;
+	column-count: 2;
+	column-gap: 40px;
+}
+
+img
+{
+	display: block;
+	margin: auto;
+	padding: 10px;
+	border: 1px solid #ECF8F8;
+
+}
+
 a:link, a:visited
 {
 	color: #ECF8F8;
